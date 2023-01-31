@@ -40,7 +40,7 @@ I won't turn this into an opinion piece, so we'll get into the meat and potatoes
 
 ## Setup
 
-- `git clone https://github.com/asledgehammer/PipeWrenchTemplate`
+- `git clone https://github.com/Sol-Studio/PipeWrenchTemplate`
 - run `npm install` in the main folder.
 
 You should now have a _working_ environment.
