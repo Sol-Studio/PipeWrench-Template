@@ -1,0 +1,3 @@
+Tooltip_KO = {
+    Tooltip_Example = "툴팁 예시"
+}

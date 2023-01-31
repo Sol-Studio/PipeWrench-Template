@@ -6,8 +6,5 @@
     "id": "12312312",
     "url": "https://www.google.com,"
   },
-  "modelsDir": "./src/models",
-  "texturesDir": "./src/textures",
-  "soundDir": "./src/sound",
-  "scriptsDir": "./src/scripts"
+  "copyFiles": ["./src/lua/server/distributions.lua"]
 }
